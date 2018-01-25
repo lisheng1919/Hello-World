@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/util
+END
+MD5Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/util/MD5Util.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/util/StringUtil.java
+END
+DateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/util/DateFormat.java
+END
+HttpJsonResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/util/HttpJsonResult.java
+END
+MD5DigitVerifyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/util/MD5DigitVerifyUtil.java
+END

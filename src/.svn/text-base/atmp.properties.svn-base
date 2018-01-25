@@ -1,0 +1,10 @@
+logPath=/zzjj/app/logs/atmp
+imgpath=/share_yxhc/zzjj/app/hearimage/
+btmlogpath=/share_yxhc/zzjj/app/log/
+ItemNo=0008
+endPoint=http://10.240.94.48:9001/pbank/AcctInfoQueryImpService
+deleteDate=7
+imageIp=10.240.94.48
+imagePort=9999
+imageUser=pbpsyxpt
+imagePwd=pbpsyxpt

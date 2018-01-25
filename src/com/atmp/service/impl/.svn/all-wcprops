@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/btmp/!svn/ver/36/development/trunk/atmpshP/src/com/atmp/service/impl
+END
+DataQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/service/impl/DataQueryImpl.java
+END
+ImageReceiveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/service/impl/ImageReceiveImpl.java
+END
+AccountInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/service/impl/AccountInfoImpl.java
+END
+TaskTradingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/btmp/!svn/ver/36/development/trunk/atmpshP/src/com/atmp/service/impl/TaskTradingImpl.java
+END

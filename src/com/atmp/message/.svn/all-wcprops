@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/message
+END
+CreateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/message/CreateMessage.java
+END
+ImgHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/message/ImgHandle.java
+END
+ParserXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/message/ParserXml.java
+END
+SendMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/btmp/!svn/ver/20/development/trunk/atmpshP/src/com/atmp/message/SendMessage.java
+END
